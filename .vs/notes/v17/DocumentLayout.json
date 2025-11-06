@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AMIT KUMAR\\source\\repos\\notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{604DD1CF-5F11-47C0-A6C7-6F648C490C66}|notes\\notes.csproj|c:\\users\\amit kumar\\source\\repos\\notes\\notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604DD1CF-5F11-47C0-A6C7-6F648C490C66}|notes\\notes.csproj|solutionrelative:notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604DD1CF-5F11-47C0-A6C7-6F648C490C66}|notes\\notes.csproj|c:\\users\\amit kumar\\source\\repos\\notes\\notes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{604DD1CF-5F11-47C0-A6C7-6F648C490C66}|notes\\notes.csproj|solutionrelative:notes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604DD1CF-5F11-47C0-A6C7-6F648C490C66}|notes\\notes.csproj|c:\\users\\amit kumar\\source\\repos\\notes\\notes\\views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{604DD1CF-5F11-47C0-A6C7-6F648C490C66}|notes\\notes.csproj|solutionrelative:notes\\views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604DD1CF-5F11-47C0-A6C7-6F648C490C66}|notes\\notes.csproj|c:\\users\\amit kumar\\source\\repos\\notes\\notes\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604DD1CF-5F11-47C0-A6C7-6F648C490C66}|notes\\notes.csproj|solutionrelative:notes\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604DD1CF-5F11-47C0-A6C7-6F648C490C66}|notes\\notes.csproj|c:\\users\\amit kumar\\source\\repos\\notes\\notes\\data\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604DD1CF-5F11-47C0-A6C7-6F648C490C66}|notes\\notes.csproj|solutionrelative:notes\\data\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604DD1CF-5F11-47C0-A6C7-6F648C490C66}|notes\\notes.csproj|c:\\users\\amit kumar\\source\\repos\\notes\\notes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604DD1CF-5F11-47C0-A6C7-6F648C490C66}|notes\\notes.csproj|solutionrelative:notes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AMIT KUMAR\\source\\repos\\notes\\notes\\appsettings.json",
+              "RelativeDocumentMoniker": "notes\\appsettings.json",
+              "ToolTip": "C:\\Users\\AMIT KUMAR\\source\\repos\\notes\\notes\\appsettings.json",
+              "RelativeToolTip": "notes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T17:23:29.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AMIT KUMAR\\source\\repos\\notes\\notes\\Program.cs",
+              "RelativeDocumentMoniker": "notes\\Program.cs",
+              "ToolTip": "C:\\Users\\AMIT KUMAR\\source\\repos\\notes\\notes\\Program.cs",
+              "RelativeToolTip": "notes\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T17:17:13.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AMIT KUMAR\\source\\repos\\notes\\notes\\Views\\Notes\\Index.cshtml",
+              "RelativeDocumentMoniker": "notes\\Views\\Notes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AMIT KUMAR\\source\\repos\\notes\\notes\\Views\\Notes\\Index.cshtml",
+              "RelativeToolTip": "notes\\Views\\Notes\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T17:11:57.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\AMIT KUMAR\\source\\repos\\notes\\notes\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "notes\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\AMIT KUMAR\\source\\repos\\notes\\notes\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "notes\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T17:08:07.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AMIT KUMAR\\source\\repos\\notes\\notes\\Data\\NotesDbContext.cs",
+              "RelativeDocumentMoniker": "notes\\Data\\NotesDbContext.cs",
+              "ToolTip": "C:\\Users\\AMIT KUMAR\\source\\repos\\notes\\notes\\Data\\NotesDbContext.cs",
+              "RelativeToolTip": "notes\\Data\\NotesDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T17:06:53.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\AMIT KUMAR\\source\\repos\\notes\\notes\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "notes\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\AMIT KUMAR\\source\\repos\\notes\\notes\\Models\\Note.cs",
+              "RelativeToolTip": "notes\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T17:04:31.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
